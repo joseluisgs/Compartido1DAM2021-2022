@@ -1,4 +1,6 @@
 - José Luis González Sánchez. Rol: Profesor
+- Francisco Toribio Respaldo. Rol: Alumno
+- Alejandro Sánchez Monzón. Rol: Alumno
 - Sergio Pérez Fernández. Rol: Alumno
 - Jorge Sánchez Berrocoso. Rol: Alumno
 - Rocío Palao Fernández. Rol:Alumnas
@@ -7,3 +9,7 @@
 - Mireya Sánchez Pinzón. Rol: Alumna
 - Joaquín Ayllón García. Rol: Alumno
 - Azahara Blanco Rodríguez. Rol: Delegada
+- Jeremy Alexander Ramos Segura: Rol: SubDelegado
+- Daniel Carmona Rodriguez. Rol: Alumno
+- Héctor Xavier Marín Jiménez. Rol:Alumno.
+- Daniel Rodríguez Fernández. Rol: Subdelegado B
