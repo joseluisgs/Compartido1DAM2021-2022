@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 - José Luis González Sánchez. Rol: Profesor
 - Sergio Pérez Fernández. Rol: Alumno
 - Jorge Sánchez Berrocoso. Rol: Alumno
@@ -24,4 +23,4 @@
 - Héctor Xavier Marín Jiménez. Rol:Alumno.
 - Daniel Rodríguez Fernández. Rol: Subdelegado B
 - David Zhou Yang. Rol: Alumno
-
+- Roberto Blázquez Martín. Rol: Alumno
